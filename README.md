@@ -2,17 +2,20 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** Matt Elliott
 
-**Due date:** _\<date\>_
+**Due date:** Friday March 18
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+This assignment was to design a program to make a histogram, determine how many
+digits are in a given number. We also had to develop a function and use a test
+to confirm if it worked.
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+This assignment really stressed how to define functions for me, as each question
+needed several things to be defined in order to operate.
 
 ## Honor Pledge
 
@@ -23,4 +26,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Matt Elliott
